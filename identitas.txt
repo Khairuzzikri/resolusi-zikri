@@ -3,4 +3,5 @@ Pengalaman pertama menjadi frond-end developer
 Resolusi
 -konsisten belajar frond end
 -dipandu oleh sepuh pak dhika dan pratama
+-setelah ini react yok
 -sudah itu aja dulu
